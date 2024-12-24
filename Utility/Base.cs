@@ -23,6 +23,7 @@ namespace TestprojectdecBatchEGIndia.Utility
 
             string browserName = System.Configuration.ConfigurationManager.AppSettings["browser"];
             InitBrowser(browserName);
+            
             // launch the application
             //   driver.Navigate().GoToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
             // driver.Manage().Window.Maximize();
@@ -55,8 +56,10 @@ namespace TestprojectdecBatchEGIndia.Utility
                 case "Edge":
                     // launch chrome browser
                     new WebDriverManager.DriverManager().SetUpDriver(new EdgeConfig());
+                    
                     driver = new EdgeDriver();
                     break;
+                    
 
             }
 
@@ -68,7 +71,8 @@ namespace TestprojectdecBatchEGIndia.Utility
 
             if (driver != null)
             {
-
+                Console.WriteLine("hgsad");
+                Console.WriteLine("hgsjyts");
                 driver.Quit();
                 driver.Dispose();
                 driver = null;
