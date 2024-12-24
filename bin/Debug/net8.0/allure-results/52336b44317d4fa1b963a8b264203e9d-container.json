@@ -1,0 +1,12 @@
+{
+  "uuid": "cd2a6e9e-859c-434b-8fa8-4c9fd05af712",
+  "name": "TestprojectdecBatchEGIndia.Selenium.parallel+Scroll.testcase1",
+  "children": [
+    "c0b422c8-1b7f-400d-9279-75eb6d2a11ff"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592372623,
+  "stop": 1734592398533
+}

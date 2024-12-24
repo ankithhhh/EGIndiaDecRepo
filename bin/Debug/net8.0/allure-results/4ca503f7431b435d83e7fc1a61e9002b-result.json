@@ -1,0 +1,55 @@
+{
+  "uuid": "768b3a62-6eb0-48ee-b752-3f4e66dee139",
+  "historyId": "12c85335f5c194ff0f871bf45cf08785",
+  "testCaseId": "453d077c1d6c1bef5c899d3083b261a9",
+  "fullName": "TestprojectdecBatchEGIndia:TestprojectdecBatchEGIndia.NUnitTest.Assignment.AddCustomer()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQHGWDPR4TKS"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestprojectdecBatchEGIndia.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddCustomer"
+    },
+    {
+      "name": "testClass",
+      "value": "Assignment"
+    },
+    {
+      "name": "tag",
+      "value": "sanity"
+    }
+  ],
+  "links": [],
+  "name": "AddCustomer",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "3020d88e-7d3d-4db3-8ca9-97d8897ed6fa-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734590861996,
+  "stop": 1734590862005
+}

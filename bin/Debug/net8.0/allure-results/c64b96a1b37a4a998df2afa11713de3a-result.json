@@ -1,0 +1,51 @@
+{
+  "uuid": "e5b38611-59f4-43f4-89ec-3c2418d4963e",
+  "historyId": "9259da5ba640fd65d3bb43b35ac4899b",
+  "testCaseId": "21092d06878a6a1b40dba10c69a55b00",
+  "fullName": "TestprojectdecBatchEGIndia:TestprojectdecBatchEGIndia.NUnitTest.Assignment.MangerLogin()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQHGWDPR4TKS"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestprojectdecBatchEGIndia.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "MangerLogin"
+    },
+    {
+      "name": "testClass",
+      "value": "Assignment"
+    }
+  ],
+  "links": [],
+  "name": "MangerLogin",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "909ccd3d-348b-4d55-a1cf-3db3456e4b4c-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734075391672,
+  "stop": 1734075391677
+}

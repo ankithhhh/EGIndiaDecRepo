@@ -1,0 +1,12 @@
+{
+  "uuid": "3aa6aee4-fc21-4c18-95f9-8e9d0c309f65",
+  "name": "TestprojectdecBatchEGIndia.NUnitTest.Assignment(\"anki\",\"qwe\",123).MangerLogin",
+  "children": [
+    "a6d1e9a3-5364-42d6-8db1-7cc35e21adb3"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734075321782,
+  "stop": 1734075321817
+}

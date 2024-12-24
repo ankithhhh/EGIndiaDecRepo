@@ -1,0 +1,12 @@
+{
+  "uuid": "a22bc7b1-4d31-4a3c-8aff-ed33ecd93eb5",
+  "name": "TestprojectdecBatchEGIndia.NUnitTest.Test1.test1",
+  "children": [
+    "266b5c37-a451-4599-83e1-54520e4a703d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1733991337117,
+  "stop": 1733991337183
+}

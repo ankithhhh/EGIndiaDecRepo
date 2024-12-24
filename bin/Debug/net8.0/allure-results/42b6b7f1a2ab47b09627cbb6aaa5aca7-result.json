@@ -1,0 +1,45 @@
+{
+  "uuid": "757e742d-5b05-491f-b93d-ba3ed99808f2",
+  "historyId": "5c6a5c5f2452af531bc49a9b2b3695c8",
+  "testCaseId": "5459b0600a763b0ba7a6c79441e0639e",
+  "fullName": "TestprojectdecBatchEGIndia:TestprojectdecBatchEGIndia.Selenium.parallel+Scroll.testcase()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#6"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQHGWDPR4TKS"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestprojectdecBatchEGIndia.Selenium"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase"
+    },
+    {
+      "name": "testClass",
+      "value": "parallel+Scroll"
+    }
+  ],
+  "links": [],
+  "name": "testcase",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734592747411,
+  "stop": 1734592760736
+}

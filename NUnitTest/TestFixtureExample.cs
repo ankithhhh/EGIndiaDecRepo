@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TestprojectdecBatchEGIndia.NUnitTest
+{
+    [TestFixture, Description("this is sanity"), Category("sanity")]
+    internal class TestFixtureExample
+    {
+
+        [Test]
+        public void test1()
+        {
+            Console.WriteLine("first text case done");
+        }
+        [Test]
+        public void userreg()
+        {
+            Console.WriteLine("user reg completed");
+        }
+        [Test]
+        public void login()
+        {
+            Console.WriteLine("user is logged in");
+        }
+        [Test]
+        public void select()
+        {
+            Console.WriteLine("user selects the product");
+        }
+    }
+}

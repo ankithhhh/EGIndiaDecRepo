@@ -1,0 +1,52 @@
+{
+  "uuid": "b2e526fa-c1e7-4c84-9b22-edf9bf0433c2",
+  "historyId": "5c6a5c5f2452af531bc49a9b2b3695c8",
+  "testCaseId": "5459b0600a763b0ba7a6c79441e0639e",
+  "fullName": "TestprojectdecBatchEGIndia:TestprojectdecBatchEGIndia.Selenium.parallel+Scroll.testcase()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQHGWDPR4TKS"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestprojectdecBatchEGIndia.Selenium"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase"
+    },
+    {
+      "name": "testClass",
+      "value": "parallel+Scroll"
+    }
+  ],
+  "links": [],
+  "name": "testcase",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TearDown : OpenQA.Selenium.WebDriverException : invalid session id",
+    "trace": "--TearDown\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Close()\r\n   at TestprojectdecBatchEGIndia.Selenium.parallel.Scroll.closeBrowser() in C:\\Users\\anami\\source\\repos\\TestprojectdecBatchEGIndia\\TestprojectdecBatchEGIndia\\Selenium\\parallel.cs:line 76\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734609704119,
+  "stop": 1734609717343
+}

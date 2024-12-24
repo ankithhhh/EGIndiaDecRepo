@@ -1,0 +1,12 @@
+{
+  "uuid": "deba6df3-fb9d-4166-ad0f-5659872f2694",
+  "name": "TestprojectdecBatchEGIndia.NUnitTest.Assignment(\"anki\",\"qwe\",123).AddCustomer",
+  "children": [
+    "768b3a62-6eb0-48ee-b752-3f4e66dee139"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734590861995,
+  "stop": 1734590862029
+}

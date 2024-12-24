@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TestprojectdecBatchEGIndia.NUnitTest
+{
+    [Allure.NUnit.AllureNUnit]
+    internal class AllureReport
+    {
+        [Test, Description("case")]
+        public void test1()
+        {
+            Console.WriteLine("first text case done");
+        }
+        [Test]
+        public void userreg()
+        {
+            Console.WriteLine("user reg completed");
+        }
+        [Test]
+        public void login()
+        {
+            Console.WriteLine("user is logged in");
+        }
+        [Test]
+        public void select()
+        {
+            Console.WriteLine("user selects the product");
+        }
+    }
+}
